@@ -1,6 +1,6 @@
 {
   "name": "schemer",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -10,6 +10,7 @@
     "tests"
   ],
   "dependencies": {
-    "threejs": "*"
+    "threejs": "*",
+    "schemer": "~0.1.0"
   }
 }
