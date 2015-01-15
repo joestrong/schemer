@@ -1,12 +1,15 @@
 {
-  "name": "gameengine",
+  "name": "schemer.js",
   "version": "0.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "Schemer.js, the webgl Framework",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": {
+    "name": "Joe Strong",
+    "email": "joestrong@gmail.com",
+    "url": "http://www.joestrong.co.uk"
+  },
   "license": "BSD-2-Clause",
   "devDependencies": {}
 }

@@ -1,5 +1,5 @@
-var box = new gameengine.object();
+var box = new schemer.object();
 
 box.init = function() {
-    this.mesh = gameengine.primitives.box;
+    this.mesh = schemer.primitives.box;
 };

@@ -1,2 +1,2 @@
-gameengine.textures.files = [
+schemer.textures.files = [
 ];

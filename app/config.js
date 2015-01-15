@@ -1,4 +1,4 @@
-gameengine.config = {
+schemer.config = {
 	canvas: {
 		width: 500,
 		height: 400

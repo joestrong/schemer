@@ -1,4 +1,4 @@
-gameengine.autoloader.files = [
+schemer.autoloader.files = [
     'app/config',
     'app/scenes/level1',
     'app/objects/box',
